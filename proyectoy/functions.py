@@ -5,3 +5,6 @@ def test(atr):
     if atr == True:
         dataloader.extract_data()
         
+def function2():
+    print("function2")
+        
