@@ -4,10 +4,10 @@ def test(atr):
     print("hello")
     if atr == True:
         dataloader.extract_data()
-        
-def function2():
-    print("function2")
-        
-        
+
+def nuevafuncion():
+    print("nuevafuncion")
+    
 def function3():
     print("function3")
+
