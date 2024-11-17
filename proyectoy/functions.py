@@ -8,3 +8,6 @@ def test(atr):
 def function2():
     print("function2")
         
+        
+def function3():
+    print("function3")
